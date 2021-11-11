@@ -39,8 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'starbucks',
     'products', 
-    'corsheaders'
-
+    'corsheaders',
+    'core'
 ]
 
 MIDDLEWARE = [
